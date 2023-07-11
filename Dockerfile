@@ -19,7 +19,7 @@ RUN chmod 777 /maruf
 
 RUN apt-get update && apt-get upgrade -y
 RUN apt-get -qq install mediainfo -y
-RUN git clone https://github.com/BalaPriyan/mirror-leech-telegram-bo
+RUN git clone https://github.com/BalaPriyan/mirror-leech-telegram-bot
 RUN cd /maruf/m*t*t;pip3 install --no-cache-dir -r requirements.txt
 
 COPY . .
