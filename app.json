@@ -10,33 +10,6 @@
     "repository": "https://github.com/",
     "success_url": "https://t.me/Telegram",
     "stack": "container",
-    "env": {
-        "BOT_NAME": {
-            "description": "Name of your bot",
-            "value": "takamichi",
-            "required": false
-        },
-        "BOT_TOKEN": {
-            "description": "bottoken from bot father",
-            "value": "",
-            "required": true
-        },
-        "OWNER_ID": {
-            "description": "owner chat id",
-            "value": "",
-            "required": true
-        },
-        "TELEGRAM_API": {
-            "description": "AIP id",
-            "value": "",
-            "required": true
-        },
-        "TELEGRAM_HASH": {
-            "description": "api hash",
-            "value": "",
-            "required": true
-        }
-    },
     "formation": {
         "rootedcyber": {
             "quantity": 1,
