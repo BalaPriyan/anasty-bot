@@ -16,25 +16,25 @@
             "value": "takamichi",
             "required": false
         },
-        "BOT_NAME": {
-            "description": "Name of your bot",
-            "value": "takamichi",
-            "required": false
+        "BOT_TOKEN": {
+            "description": "bottoken from bot father",
+            "value": "",
+            "required": true
         },
-        "BOT_NAME": {
-            "description": "Name of your bot",
-            "value": "takamichi",
-            "required": false
+        "OWNER_ID": {
+            "description": "owner chat id",
+            "value": "",
+            "required": true
         },
-        "BOT_NAME": {
-            "description": "Name of your bot",
-            "value": "takamichi",
-            "required": false
+        "TELEGRAM_API": {
+            "description": "AIP id",
+            "value": "",
+            "required": true
         },
-        "BOT_NAME": {
-            "description": "Name of your bot",
-            "value": "takamichi",
-            "required": false
+        "TELEGRAM_HASH": {
+            "description": "api hash",
+            "value": "",
+            "required": true
         }
     },
     "formation": {
