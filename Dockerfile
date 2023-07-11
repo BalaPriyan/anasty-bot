@@ -23,5 +23,5 @@ RUN git clone https://github.com/BalaPriyan/mirror-leech-telegram-bot
 RUN cd /maruf/m*t*t;pip3 install --no-cache-dir -r requirements.txt
 
 COPY . .
-RUN cd m*t*t
+RUN cd /maruf/m*t*t
 CMD ["bash", "start.sh"]
