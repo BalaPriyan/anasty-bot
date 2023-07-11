@@ -1,6 +1,6 @@
 # anasty-bot
 ```
-git clone https://github.com/rooted-cyber/anasty-bot;cd anas*;bash st.sh
+git clone [https://github.com/BalaPriyan/anasty-bot];cd anas*;bash st.sh
 ```
 ## Install
 ```
