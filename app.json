@@ -13,7 +13,7 @@
     "env": {
         "BOT_NAME": {
             "description": "Name of your bot",
-            "value": "mirror-bot",
+            "value": "takamichi",
             "required": false
         }
     },
