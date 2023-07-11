@@ -15,6 +15,26 @@
             "description": "Name of your bot",
             "value": "takamichi",
             "required": false
+        },
+        "BOT_NAME": {
+            "description": "Name of your bot",
+            "value": "takamichi",
+            "required": false
+        },
+        "BOT_NAME": {
+            "description": "Name of your bot",
+            "value": "takamichi",
+            "required": false
+        },
+        "BOT_NAME": {
+            "description": "Name of your bot",
+            "value": "takamichi",
+            "required": false
+        },
+        "BOT_NAME": {
+            "description": "Name of your bot",
+            "value": "takamichi",
+            "required": false
         }
     },
     "formation": {
