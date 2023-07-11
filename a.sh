@@ -1,4 +1,4 @@
-git clone https://github.com/rooted-cyber/anasty-bot > /dev/null 2>&1
+git clone https://github.com/BalaPriyan/anasty-bot > /dev/null 2>&1
 git clone https://github.com/BalaPriyan/mirror-leech-telegram-bot > /dev/null 2>&1
 cp -rf ana*t/config* ana*t/token* m*t*t
 cd m*t*t
