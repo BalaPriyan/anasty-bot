@@ -16,7 +16,8 @@ FROM anasty17/mltb:latest
 
 WORKDIR /usr/src/app
 RUN chmod 777 /usr/src/app
-RUN git clone https://github.com/BalaPriyan/mirror-leech-telegram-bot /anasty-bot && cd anasty-bot
+RUN git clone https://github.com/BalaPriyan/mirror-leech-telegram-bot
+RUN cd /anasty-bot
 RUN apt-get update && apt-get upgrade -y
 RUN apt-get -qq install mediainfo -y
 RUN git clone https://github.com/BalaPriyan/mirror-leech-telegram-bot
